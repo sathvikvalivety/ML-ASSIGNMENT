@@ -20,19 +20,8 @@ A comprehensive implementation of hybrid image classification combining traditio
 - **Computational Efficiency**: Execution time tracking
 
 ## 🛠 Installation
+```bash
 git clone https://github.com/yourusername/image-classification-hybrid.git
 cd image-classification-hybrid
 pip install -r requirements.txt
 
-├── data/                   # Dataset storage
-│   ├── raw/                # Raw images
-│   └── processed/          # Processed data
-├── models/                 # Saved models
-├── notebooks/              # Jupyter notebooks
-├── src/
-│   ├── feature_extraction/ # Feature extraction modules
-│   ├── training/           # Model training scripts
-│   ├── evaluation/         # Performance evaluation
-│   └── utils/              # Helper functions
-├── README.md
-└── requirements.txt
